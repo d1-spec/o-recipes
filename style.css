@@ -1,13 +1,23 @@
+body {
+margin:0;
+}
+
+
 .h {
-    text-align: center;
+    background-color: #9ec410;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding-bottom: 40px;
+    padding-top: 30px;
     color: brown;
+    text-align: center;
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
-
 }
 
 .h2 {
+    margin-left: 10px;
     color: brown;
     font-family: Arial, Helvetica, sans-serif;
     font-style:italic;
@@ -17,13 +27,46 @@
 html {
     background-color: white ;
 }
+    
 
 .link {
+    margin-left: 170px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    color: brown;
+    color: grey;
 }
+.linkb {
+    margin-left: 240px;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    color: grey;
+}
+.linkc {
+    margin-left: 197px;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    color: grey;
+}
+
 
 .list {
     font-size:20px;
 }
+
+.titulo {
+    background-color: #9ec410;
+    display: block;
+    margin-top: -34px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    
+}
+
+.pimage {
+    display: inline;
+    height: 180px;
+    width: 180px;
+    margin-top: 50px;
+    margin-left: 210px;
+}
+
